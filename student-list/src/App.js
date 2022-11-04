@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
+        <p className='bg-red-300'>
           Hello React!
         </p>
         <a

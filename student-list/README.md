@@ -1,3 +1,7 @@
+# Intro
+
+This student-list project is a project to create student list and to add new student in a list by passing data down multiple layers
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
